@@ -1,0 +1,9 @@
+[Listening...]
+Human: Hi, Luna.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+Missing input variable: 'Input to ChatPromptTemplate is missing variables {"\'Question\'"}.  Expected: ["\'Question\'", \'agent_scratchpad\', \'chat_history\', \'input\'] Received: [\'input\', \'chat_history\', \'intermediate_steps\', \'agent_scratchpad\']'
+KeyError while adding AI message to memory: 'output'
+
+Error: 'output'

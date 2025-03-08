@@ -1,0 +1,138 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Can you summarize the policies for employees?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `contract_info` with `{'query': 'summarize policies for employees'}`
+
+
+[0m[36;1m[1;3mWhat is compensation policy?
+A compensation policy refers to a set of guidelines and principles
+established by an organization to determine how it will reward its
+employees for their work and contributions. It outlines the various
+components of compensation, such as salaries, bonuses, incentives,
+benefits, and other forms of remuneration. The policy is designed to ensure
+that the compensation offered aligns with the company’s overall goals and
+values, while also being competitive enough to attract and retain talented
+employees.
+The corporate mission of (Name of the organisation) is to be a world leader
+in (line of business of organisation). The policy aims to provide a framework
+to create, modify and maintain appropriate compensation and benefits
+programs and processes with adequate supervision and control.
+The ability to attract, retain, reward and motivate talented individuals is
+critical for achieving our strategic goals and long term success. A fair and
+
+Step 10: Provide Timely and Effective Performance Evaluations 
+Employers should aim to provide employees with yearly or biannual performance evaluations. In doing so, 
+employers should clearly set out the employer's expectations and show the employee how the employee is 
+meeting them or not meeting them. 
+Step 11: Do Not Prohibit Employees from Discussing Wages
+Employers should not prohibit employees from discussing information regarding wages, salary or benefits 
+with other employees. The National Labor Relations Act specifically affords employees the right to 
+engage in mutual concerted protected activity and work collectively to improve their wages, hours and 
+working conditions. In addition, Colorado, California, Colorado, Illinois and Michigan have laws that 
+prohibit employers from requiring that employees refrain from discussing their wages and/or waive their 
+right to discuss such information. 
+Comparable worth: 
+Establishing a comparable worth plan has 4 steps:
+
+Compensation and Benefits (14MBAHR303)
+5
+Department of Management Studies, GCEMThe degree of emphasis to be placed on performance is an important policy decision, since it directly 
+affects employees’ attitudes and work behaviors.
+Employers with strong pay-for-per-
+Formance policies are more likely to place greater emphasis on incentives and merit pay. Starbucks 
+emphasizes stock options and sharing the success of corporate performance with the employees. General 
+Electric emphasizes performance at the unit, division, and companywide level. Recognition of 
+contributions also affects fairness, since employees need to understand the basis 
+for judging performance in order to believe that their pay is fair. 
+Administration: 
+Policy regarding administration of the pay system is the last building block in our model. Although it is 
+possible to design a system that is based on internal alignment, external competitiveness, and employee[0m[32;1m[1;3mThe organization's compensation policy focuses on attracting, retaining, and motivating talented employees through fair and competitive rewards. Components include salaries, bonuses, incentives, benefits, and performance evaluations. Employers should provide timely evaluations and not prohibit wage discussions. A comparable worth plan has 4 steps. The policy aims to create, modify, and maintain appropriate compensation programs with supervision and control.[0m
+
+[1m> Finished chain.[0m
+LLM (18458ms): The organization's compensation policy focuses on attracting, retaining, and motivating talented employees through fair and competitive rewards. Components include salaries, bonuses, incentives, benefits, and performance evaluations. Employers should provide timely evaluations and not prohibit wage discussions. A comparable worth plan has 4 steps. The policy aims to create, modify, and maintain appropriate compensation programs with supervision and control.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Okay. Can you summarize the land
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mSure thing! The land assessment tool provides information on legal aspects, procedures, and key documents involved in land transactions in India. It covers topics such as land acquisition, registration, transfer, and dispute resolution. The tool helps users understand the legal requirements and potential risks associated with land transactions in the country.[0m
+
+[1m> Finished chain.[0m
+LLM (7221ms): Sure thing! The land assessment tool provides information on legal aspects, procedures, and key documents involved in land transactions in India. It covers topics such as land acquisition, registration, transfer, and dispute resolution. The tool helps users understand the legal requirements and potential risks associated with land transactions in the country.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Okay. Can you allow elaborate on the topic of land acquisition?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mOf course! Land acquisition in India involves several legal aspects, procedures, and key documents. The process typically starts with identifying the land required for a specific project, followed by a survey and determination of the land's market value. The government or the relevant authority then initiates the acquisition process, which may involve negotiations with the landowners or the use of eminent domain.
+
+The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, is the primary legislation governing land acquisition in India. It aims to ensure fair compensation and rehabilitation for affected landowners and occupiers. The Act includes provisions for social impact assessments, consent of affected families, and the determination of market value.
+
+Key documents involved in land acquisition include notifications, consent letters, resettlement plans, and compensation payment records. The process may also involve court proceedings and dispute resolution mechanisms.
+
+In summary, land acquisition in India is a complex process that requires a thorough understanding of legal aspects, procedures, and key documents. The land assessment tool can help users navigate this process and make informed decisions.[0m
+
+[1m> Finished chain.[0m
+LLM (8056ms): Of course! Land acquisition in India involves several legal aspects, procedures, and key documents. The process typically starts with identifying the land required for a specific project, followed by a survey and determination of the land's market value. The government or the relevant authority then initiates the acquisition process, which may involve negotiations with the landowners or the use of eminent domain.
+
+The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, is the primary legislation governing land acquisition in India. It aims to ensure fair compensation and rehabilitation for affected landowners and occupiers. The Act includes provisions for social impact assessments, consent of affected families, and the determination of market value.
+
+Key documents involved in land acquisition include notifications, consent letters, resettlement plans, and compensation payment records. The process may also involve court proceedings and dispute resolution mechanisms.
+
+In summary, land acquisition in India is a complex process that requires a thorough understanding of legal aspects, procedures, and key documents. The land assessment tool can help users navigate this process and make informed decisions.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: This lamb acquisition.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI apologize for the confusion. I believe you meant "land acquisition."
+
+Land acquisition is the process of obtaining land for specific purposes, such as infrastructure development, industrial projects, or residential areas. In India, land acquisition involves several legal aspects, procedures, and key documents.
+
+The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, is the primary legislation governing land acquisition in India. It aims to ensure fair compensation and rehabilitation for affected landowners and occupiers. The Act includes provisions for social impact assessments, consent of affected families, and the determination of market value.
+
+Key documents involved in land acquisition include notifications, consent letters, resettlement plans, and compensation payment records. The process may also involve court proceedings and dispute resolution mechanisms.
+
+In summary, land acquisition is a complex process that requires a thorough understanding of legal aspects, procedures, and key documents. The land assessment tool can help users navigate this process and make informed decisions.
+
+If you have any further questions or need more information, please let me know! I'm here to help.[0m
+
+[1m> Finished chain.[0m
+LLM (8167ms): I apologize for the confusion. I believe you meant "land acquisition."
+
+Land acquisition is the process of obtaining land for specific purposes, such as infrastructure development, industrial projects, or residential areas. In India, land acquisition involves several legal aspects, procedures, and key documents.
+
+The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, is the primary legislation governing land acquisition in India. It aims to ensure fair compensation and rehabilitation for affected landowners and occupiers. The Act includes provisions for social impact assessments, consent of affected families, and the determination of market value.
+
+Key documents involved in land acquisition include notifications, consent letters, resettlement plans, and compensation payment records. The process may also involve court proceedings and dispute resolution mechanisms.
+
+In summary, land acquisition is a complex process that requires a thorough understanding of legal aspects, procedures, and key documents. The land assessment tool can help users navigate this process and make informed decisions.
+
+If you have any further questions or need more information, please let me know! I'm here to help.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

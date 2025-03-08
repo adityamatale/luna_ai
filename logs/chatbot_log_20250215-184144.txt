@@ -1,0 +1,29 @@
+[Listening...]
+Human: Hey, Luna.   Hi, Luna.
+
+Intermediate Steps:
+LLM (748ms): Hello! How can I help you today? 😊
+[Listening...]
+Human: I just uploaded a document. Can you me what are the two points mentioned in article one objective of the agreement?
+
+Intermediate Steps:
+Step 1: (OpenAIToolAgentAction(tool='user_uploaded_contract', tool_input={'query': 'article one objective points'}, log="\nInvoking: `user_uploaded_contract` with `{'query': 'article one objective points'}`\nresponded: Sure thing! Let me take a look at the document for you.\n\n\n\n", message_log=[AIMessageChunk(content='Sure thing! Let me take a look at the document for you.\n\n', additional_kwargs={'tool_calls': [{'index': 0, 'id': 'call_6nce', 'function': {'arguments': '{"query":"article one objective points"}', 'name': 'user_uploaded_contract'}, 'type': 'function'}]})], tool_call_id='call_6nce'), 'Page 1 of 3 \n \nSAMPLE CONTRACT  \nThis contract (The Agreement) is effective (Date) \nbetween \nNGO/UN agency hereinafter referred to as the “first party“ \nand \nCompany/agent hereinafter referred to as “second party“ \n \nWHEREAS the first party desires to transfer money from Turkey into Syria within the frame of its \nhumanitarian activities in the north of Idleb Governorate, Syria, and the second party has the \nproven capacity, experience and highest reasonable standard of financial due diligence to \nfacilitate the transfers.  \n \nThe Parties agree to nominate one primary contact person to manage this account on daily \nbasis and to collaborate as follows:  \n \nARTICLE 1. Objective of the Agreement \n1.1. The first party intends to transfer money to people residing in areas outside of the control \nof the Government of Syria; \n1.2. The second party has the proven capacity, experience and highest reasonable standard \nof diligence to facilitate the transfers.\n\nARTICLE 2. Obligations of the first party \n2.1 Apply the highest reasonable standard of diligence* to ensure that the money transferred \nunder this agreeement is not transferred to any individual or entity listed as a Designated \nTerrorist; \n2.2 Coordinate what public statements / agree comms strategy will be made regarding the \ntransfers that involve beneficiaries; \n2.3 Inform the second party of the amount of money to be transfered to Syria at least 7 days \nbefore the due date of payment so that they can arrange the necessary liquidity;  \n2.4 Inform the second party of the specific locations where the money is required, within a \n6km radius of the most distantly located recipents, so that they can position agents within \nsafe reach of the intended recipient; \n2.5 Provide the second party with the full list of recipients 1 day before the due date of \ndisbursement;  \n2.6 In a hawala transaction where no physical cash provided to the second party is taken\n\nARTICLE 5. Modification and Cancellation \n5.1 The Parties may only amend this agreement through mutual written consent; \n5.2 In case the second party cannot provide the required amount, he should submit \nsomething in writing to care stating his reason, based on which the first party can ask \nanother money dealer to provide the needed amount onwards; \n5.2  Should either of the parties intend to terminate this agreement prematurely, notice of two \nweeks must be submitted to the other party in writing, in order to end the agreement on \ngood terms. \n \nARTICLE 6. Dispute Resolution \n6.1 Both parties shall use their best efforts to resolve any dispute in a friendly manner, \nthrough consultation and clear communication; \n6.2 Any dispute which cannot be resolved in such a way will be taken to a mutually agreed \nmediator on a cost-sharing basis. \n \nFor [NGO/UN agency] \n \nName:  \nPosition: \n \nDate: \nFor [company/agent] \n \nName:  \nPosition: \n \nDate:')
+LLM (4009ms): The two points mentioned in Article 1 Objective of the Agreement are:
+1.1. The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria.
+1.2. The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers.
+[Listening...]
+Human: Can you summarize and explain to me what these two points
+
+Intermediate Steps:
+LLM (853ms): Sure! Article 1 Objective of the Agreement has two main points:
+1.1: This point highlights the first party's intention to send money to individuals residing in regions not under the control of the Syrian Government. This could be due to various reasons, such as humanitarian aid, family support, or other legitimate purposes.
+1.2: This point emphasizes the second party's ability and commitment to facilitate these transfers. It implies that the second party has the necessary capacity, experience, and diligence to ensure the transfers are carried out efficiently and in compliance with relevant regulations.
+[Listening...]
+Human: Okay. Thank you. That was a great help.
+
+Intermediate Steps:
+LLM (1143ms): You're welcome! I'm glad I could help. If you have any more questions or need further clarification, just let me know. Have a great day! 😊
+Could not open socket: 
+
+Intermediate Steps:
+LLM (733ms): I'm here to help! If you have any questions or need legal insights, just let me know. I'm happy to assist. 😊

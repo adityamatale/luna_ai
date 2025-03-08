@@ -1,0 +1,10 @@
+[Listening...]
+Human: What is modification on the document?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mA modification on a document typically refers to making changes or alterations to the original content. These changes could involve adding, removing, or updating information in the document. To provide a more specific answer, I would need to analyze the document in question.[0m
+
+[1m> Finished chain.[0m
+LLM (975ms): A modification on a document typically refers to making changes or alterations to the original content. These changes could involve adding, removing, or updating information in the document. To provide a more specific answer, I would need to analyze the document in question.
+[Listening...]

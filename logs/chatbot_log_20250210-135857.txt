@@ -1,0 +1,7 @@
+[Listening...]
+Human: Hi, Luna. I have uploaded a contract. Can you please tell me what is the article one about?  Hello? Hello? Hello?
+LLM (3202ms): Sure thing! Article one of the contract is about the objective of the agreement. The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria, and the second party has the proven capacity, experience, and highest reasonable standard of diligence to facilitate the transfers.
+[Listening...]
+Human: Goodbye. Goodbye.  Goodbye.
+
+Conversation completed.

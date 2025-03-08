@@ -1,0 +1,72 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hi, Luna.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHello! How can I help you today?[0m
+
+[1m> Finished chain.[0m
+LLM (7433ms): Hello! How can I help you today?
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Okay. I have some issues with the document that I just uploaded. Can you please summarize article one for me?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mSure thing! Article one focuses on legal aspects of land transactions in India. It outlines procedures and key documents required for a smooth process. Let me know if you need more details![0m
+
+[1m> Finished chain.[0m
+LLM (7642ms): Sure thing! Article one focuses on legal aspects of land transactions in India. It outlines procedures and key documents required for a smooth process. Let me know if you need more details!
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Can you summarize article one for me in the uploaded document?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mAlright, let's break it down for you. Article one in your document discusses the user's uploaded contract, specifically focusing on compliance and risk analysis. It dives into the legalities, regulations, and potential challenges related to the contract. Hope that helps![0m
+
+[1m> Finished chain.[0m
+LLM (7778ms): Alright, let's break it down for you. Article one in your document discusses the user's uploaded contract, specifically focusing on compliance and risk analysis. It dives into the legalities, regulations, and potential challenges related to the contract. Hope that helps!
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Elaborate each point line by line in the document that I just uploaded.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mOkay, here's the lowdown! Article one in your uploaded document has several key points regarding the user's contract:
+
+1. It highlights the importance of understanding compensation and benefits offered by the company to its employees.
+2. The article then moves on to the legal aspects of land transactions in India, explaining procedures and essential documents.
+3. Lastly, it touches upon the significance of assessing risks and ensuring compliance when dealing with specific contracts.
+
+Hope this clarifies the article for you![0m
+
+[1m> Finished chain.[0m
+LLM (7426ms): Okay, here's the lowdown! Article one in your uploaded document has several key points regarding the user's contract:
+
+1. It highlights the importance of understanding compensation and benefits offered by the company to its employees.
+2. The article then moves on to the legal aspects of land transactions in India, explaining procedures and essential documents.
+3. Lastly, it touches upon the significance of assessing risks and ensuring compliance when dealing with specific contracts.
+
+Hope this clarifies the article for you!
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

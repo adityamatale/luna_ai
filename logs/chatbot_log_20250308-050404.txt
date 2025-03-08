@@ -1,0 +1,114 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Tell me something about
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `contract_info` with `{'query': 'compensation and benefits offered by companies'}`
+
+
+[0m[36;1m[1;3mCompensation and Beneﬁts Package (Portolese 2018).
+According to Dessler (2014, 2019), employee compensation and beneﬁts include all
+forms of pay going to employees and arising from their employment, besides their regular
+wages or salaries. They are comprised of direct ﬁnancial payments (the 13th payment,
+bonuses, proﬁt-sharing, etc.) and indirect ﬁnancial payments (medical coverage, health
+insurance, paid vacations, etc.). To Leibowitz (1983), beneﬁts are classiﬁed into three
+categories. The ﬁrst one is nontaxable for private utilization and includes health insurance,
+sponsored lunches in the ﬁrm (also known as a brown bag), etc. The second and third
+categories are taxable. In the second category are beneﬁts such as life insurance, which
+the employer can offer at a low cost, due to the quantity rebates, while the third category
+comprises paid time off. Mura and Svec (2018), as stated in Per áˇ cek (2020), use the term
+
+Compensation and Benefits (14MBAHR303)
+3
+Department of Management Studies, GCEM∑Indirect financial compensation including all financial rewards that are not included in direct 
+compensation and understood to form part of the social contract between the employer and 
+employee such as benefits, leaves, retirement plans, education, and employee services 
+∑Non-financial compensation referring to topics such as career development and advancement 
+opportunities, opportunities for recognition, as well as work environment and conditions 
+∑While employees tend to focus on direct financial compensation when contemplating their rewards, 
+according to the McKinsey Journal, for individuals who are relatively satisfied with their salary, it is 
+the non-financial rewards that tend to be more effective in contributing to long-term employee 
+engagement. 
+Pay Model 
+Pay model or the compensation model varies from industry to organizations. Each and every industry has
+
+the employer can offer at a low cost, due to the quantity rebates, while the third category
+comprises paid time off. Mura and Svec (2018), as stated in Per áˇ cek (2020), use the term
+‘remuneration’ which they argue means not only the salary or other cash remuneration
+but also other forms of indirect compensation of employees for the work done by them. It
+also includes formal recognition, promotion, and employment beneﬁts provided by the
+employer to employees, not depending on their work, but derived from working relations
+in the organization.
+Beneﬁts are an important element of employees’ aggregate compensation, so they
+affect their welfare and ﬁnancial well-being (Kristal 2017). Although the job itself might
+be a motivator to continue working and increase the company’s performance, most of the
+employees would choose not to. Another option would be to only choose jobs that are
+enjoyable for the employee but not essentially required by the community (Lazear 2018).[0m[32;1m[1;3m
+Invoking: `contract_info` with `{'query': 'employee benefits and compensation packages'}`
+
+
+[0m[36;1m[1;3mCompensation and Beneﬁts Package (Portolese 2018).
+According to Dessler (2014, 2019), employee compensation and beneﬁts include all
+forms of pay going to employees and arising from their employment, besides their regular
+wages or salaries. They are comprised of direct ﬁnancial payments (the 13th payment,
+bonuses, proﬁt-sharing, etc.) and indirect ﬁnancial payments (medical coverage, health
+insurance, paid vacations, etc.). To Leibowitz (1983), beneﬁts are classiﬁed into three
+categories. The ﬁrst one is nontaxable for private utilization and includes health insurance,
+sponsored lunches in the ﬁrm (also known as a brown bag), etc. The second and third
+categories are taxable. In the second category are beneﬁts such as life insurance, which
+the employer can offer at a low cost, due to the quantity rebates, while the third category
+comprises paid time off. Mura and Svec (2018), as stated in Per áˇ cek (2020), use the term
+
+1Faculty of Economy and Business, University of New York Tirana, 1001 Tirana, Albania
+2Intesa Sanpaolo Bank, 1001 Tirana, Albania
+*Correspondence: erionashtembari@unyt.edu.al
+Abstract: The Compensation and Beneﬁts Package is considered the main employee’s motivator. As
+such, it plays a crucial role in determining successful recruiting, engagement, and retention strategies.
+Failing to offer the right package, will be translated into additional costs. This study aimed to identify
+what type of compensation and beneﬁts Albanian employees receive and their relationship with job
+satisfaction, before and after COVID-19. We surveyed 127 employees and conducted 10 in-depth
+interviews, in different institutions in Albania. Descriptive and inferential statistics were used to
+analyze the data. The ﬁndings showed that most received beneﬁts are medical insurance and bonuses,
+and employees are less than considerably satisﬁed with their package. The majority stated that it had
+
+Compensation and Benefits (14MBAHR303)
+47
+Department of Management Studies, GCEM∑Payment of spouses’ travel expenses 
+∑Death benefits 
+Components of an Executive Compensation Package: 
+∑Base salary 
+∑Short-term (annual) incentives or bonuses 
+∑Long-term incentives and capital appreciation plans 
+∑Executive benefits 
+∑Perquisites 
+Popular Perks Offered to Executives: 
+∑Company car 
+∑Financial counseling 
+∑Company plane 
+∑Income tax preparation 
+∑First-class air travel 
+∑Country club membership 
+∑Luncheon club membership 
+∑Estate planning 
+∑Personal liability insurance 
+∑Spouse travel 
+∑Chauffeur service 
+∑Reserved parking 
+∑Executive dining room 
+∑Home security system 
+∑Car phone 
+∑Financial seminars 
+∑Loans at low / no interest 
+∑Legal counseling 
+Executive Pay & Performance 
+Pay is linked to company performance 
+∑Company performance exceeds industry standards, big bonuses and stock payouts follow 
+∑Poor financial performance means much smaller pay packages[0m[32;1m[1;3mCompensation and benefits packages are crucial for successful recruiting, engagement, and retention strategies. They typically include direct financial payments like bonuses and profit-sharing, as well as indirect financial payments such as medical insurance and paid vacations. Some benefits can be nontaxable for private use, like health insurance, while others, like life insurance, can be offered at a low cost due to quantity rebates. Employees often value non-financial rewards, like career development opportunities and work environment, for long-term engagement. Compensation packages can vary by industry and organization, and may include elements like base salary, short-term incentives, long-term incentives, executive benefits, and perquisites. The components and popularity of executive compensation packages can differ significantly from those offered to general employees.[0m
+
+[1m> Finished chain.[0m
+LLM (37984ms): Compensation and benefits packages are crucial for successful recruiting, engagement, and retention strategies. They typically include direct financial payments like bonuses and profit-sharing, as well as indirect financial payments such as medical insurance and paid vacations. Some benefits can be nontaxable for private use, like health insurance, while others, like life insurance, can be offered at a low cost due to quantity rebates. Employees often value non-financial rewards, like career development opportunities and work environment, for long-term engagement. Compensation packages can vary by industry and organization, and may include elements like base salary, short-term incentives, long-term incentives, executive benefits, and perquisites. The components and popularity of executive compensation packages can differ significantly from those offered to general employees.

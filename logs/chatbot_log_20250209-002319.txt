@@ -1,0 +1,35 @@
+Listening...
+mic start
+Human: How are you?
+mic stop
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI'm Luna, a legal compliance and risk assessment assistant. I'm here and ready to help you with your legal document analysis! How can I assist you today?[0m
+
+[1m> Finished chain.[0m
+LLM (837ms): I'm Luna, a legal compliance and risk assessment assistant. I'm here and ready to help you with your legal document analysis! How can I assist you today?
+TTS Time to First Byte (TTFB): 1059ms
+
+Listening...
+mic start
+Human: Tell me something about risk assessment.
+mic stop
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mRisk assessment is an essential process in legal compliance, helping to identify, analyze, and prioritize risks associated with legal documents or contracts. This enables informed decision-making and proactive measures to mitigate potential issues. Would you like to know more about a specific aspect of risk assessment or legal document analysis?[0m
+
+[1m> Finished chain.[0m
+LLM (588ms): Risk assessment is an essential process in legal compliance, helping to identify, analyze, and prioritize risks associated with legal documents or contracts. This enables informed decision-making and proactive measures to mitigate potential issues. Would you like to know more about a specific aspect of risk assessment or legal document analysis?
+TTS Time to First Byte (TTFB): 1565ms
+
+Listening...
+Could not open socket: 
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI'm here to help you with legal document analysis and risk assessment. To get started, please provide me with a legal document and a specific question or prompt related to it. This way, I can retrieve relevant legal knowledge and generate a concise, fact-based response for you. How can I assist you today?[0m
+
+[1m> Finished chain.[0m
+LLM (743ms): I'm here to help you with legal document analysis and risk assessment. To get started, please provide me with a legal document and a specific question or prompt related to it. This way, I can retrieve relevant legal knowledge and generate a concise, fact-based response for you. How can I assist you today?

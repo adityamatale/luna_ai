@@ -1,0 +1,23 @@
+[Listening...]
+Human: Hi. Can you tell me what the document I have uploaded is about?
+LLM (3321ms): The uploaded document appears to be a contract for a Confidentiality, Dispute Resolutions, Intellectual Property Rights, Payment Terms, Venue of Law, Warranties, and Work Standards agreement between two parties. This contract is related to a Company's Contract Management Software. It focuses on service delivery, customer support, and privacy, ensuring a streamlined approach for both parties.
+
+For more specific information or details, please provide a query related to the document.
+
+Alright, let's dive in! Here’s what I found.
+[Listening...]
+Human: What is the name of the candidate?
+LLM (736ms): I apologize for the confusion in my previous response. Since no relevant tool is available for this question, I can provide you with an answer directly.
+
+Based on the information provided, there is no mention of a candidate's name in the document.
+
+Got it! I hope this answers your question. If you have any other queries, feel free to ask.
+[Listening...]
+Human: Can you tell me the heading of the contract you have received?
+LLM (535ms): Based on the information provided, the heading of the contract is a "Confidentiality, Dispute Resolutions, Intellectual Property Rights, Payment Terms, Venue of Law, Warranties, and Work Standards agreement."
+
+Alright, let's dive in! Here’s what I found.
+[Listening...]
+Human: Okay. Thank you. Goodbye.
+
+Conversation completed.

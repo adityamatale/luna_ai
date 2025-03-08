@@ -1,0 +1,16 @@
+[Listening...]
+Human: Hello?
+LLM (7265ms): Hello! How can I help you today? If you have a legal document for analysis and a specific prompt or question related to it, I'm here to help. 😊
+[Listening...]
+Human: Okay. I need your help with user specific document. Can you please tell me what is the modification and cancellation policy?
+LLM (17874ms): Based on the tool call with id "call_s2e7", the modification and cancellation policy is as follows:
+
+5.1 The Parties may only amend this agreement through mutual written consent.
+5.2 In case the second party cannot provide the required amount, they should submit something in writing to care stating their reason. Based on this, the first party can ask another money dealer to provide the needed amount onwards.
+5.2 Should either of the parties intend to terminate this agreement prematurely, notice of two weeks must be submitted to the other party in writing, in order to end the agreement on good terms.
+
+Please let me know if you need more information or have any other questions. 😊
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

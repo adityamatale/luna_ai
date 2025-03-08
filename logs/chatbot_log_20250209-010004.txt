@@ -1,0 +1,10 @@
+[Listening...]
+Human: Good morning.
+LLM (558ms): Hello! How can I help you with legal compliance and risk assessment today? Please provide a legal document and a specific prompt or question related to it. I'm here to make understanding legal risks and requirements simple and engaging for you.
+[Listening...]
+Human: That would be great.
+LLM (560ms): Great! I'm here to help. Please provide a legal document and a specific prompt or question related to it. I'll retrieve relevant legal knowledge from the vector database and analyze the document in context to generate a concise, fact-based response for you.
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

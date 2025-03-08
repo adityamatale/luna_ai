@@ -1,0 +1,57 @@
+[user]: "Hey, Luna. What can you tell me about the modifications and cancellations involved in this contract?",
+[thought]: "The user is asking about modifications and cancellations related to their specific contract. I need to retrieve clauses discussing amendments and termination.",
+[action]: "Search",
+[action_input]: "[user_uploaded_contract] for sections related to modifications, amendments, and cancellations.",
+[observation]: "Any amendments to the agreement require mutual written consent. If the second party is unable to provide the required amount, they must submit a written explanation to CARE, based on which the first party may seek another money dealer. In case of premature termination, either party must provide a two-week written notice to ensure the agreement ends on good terms."
+[final_answer]: "The final answer to the original input question which is returned as response"
+
+[user]: "That is great. That is great. Can you also tell me what are the obligations of the first party?",
+[thought]: "The user is asking about the obligations of the first party related to their specific document. I need to extract relevant clauses defining responsibilities and liabilities.",
+[action]: "Search",
+[action_input]: "[user_uploaded_contract] for sections specifying the obligations of the first party.",
+[observation]: "Funds must not go to designated terrorists, and public communication must be coordinated. The second party must be informed of transfer details in advance, including amount, locations, and recipients. Hawala transactions require reimbursement within three days, while cross-border cash must be valid, with liability pre-agreed. Payments will be in USD or Euro at a set exchange rate."
+[final_answer]: "Funds must not go to designated terrorists, and public communication must be coordinated. The second party must be informed of transfer details in advance, including amount, locations, and recipients. Hawala transactions require reimbursement within three days, while cross-border cash must be valid, with liability pre-agreed. Payments will be in USD or Euro at a set exchange rate."
+
+[user]: "Okay. That is that is great.",
+[thought]: "The user is acknowledging the response and does not require additional retrieval at this moment.",
+[action]: "No retrieval needed",
+[action_input]: "",
+[observation]: "I'm glad you find the information helpful! If you have any more questions or need further clarification, please don't hesitate to ask. I'm here to help!"
+[final_answer]: "I'm glad you find the information helpful! If you have any more questions or need further clarification, please don't hesitate to ask. I'm here to help!"
+
+[user]: "What criteria according to the document must employees meet to be eligible for additional benefits?",
+[thought]: "The user is asking for information about the criteria employees must meet to be eligible for benefits as mentioned in the uploaded document. I need to extract relevant details from the document.",
+[action]: "Search",
+[action_input]: "[user_uploaded_contract] for benefits eligibility criteria",
+[observation]: "The document states that benefits eligibility criteria include being a full-time employee, completing a probationary period of 90 days, and meeting specific job performance standards. Additionally, part-time employees working more than 20 hours per week may be eligible for limited benefits.",
+[thought]: "The user is inquiring about the eligibility requirements for benefits as detailed in the provided document. I should locate and extract the relevant information from the document.",  
+[action]: "Search",  
+[action_input]: "[user_uploaded_contract] for details on benefits eligibility criteria",  
+[observation]: "According to the document, the eligibility criteria for benefits include being employed full-time, successfully completing a 90-day probationary period, and meeting defined job performance metrics. Additionally, part-time employees who work more than 20 hours per week may qualify for a subset of benefits.",  
+[thought]: "The user is seeking details about the conditions employees must fulfill to qualify for benefits as per the document. I need to identify and retrieve this information from the document.",  
+[action]: "Search",  
+[action_input]: "[user_uploaded_contract] for information on benefits eligibility requirements",  
+[observation]: "The document indicates that eligibility for benefits requires employees to be in a full-time role, complete a probationary period of 90 days, and achieve specific performance benchmarks. Part-time employees working more than 20 hours per week may also be eligible for a restricted set of benefits.",  
+[final_answer]: "The document specifies that employees must hold a full-time position, complete a 90-day probationary period, and meet certain performance criteria to qualify for benefits. Part-time employees working over 20 hours weekly may also be eligible for a limited range of benefits."
+
+[user]: "What are the non-cash benefits provided by a company to their employees?",
+[thought]: "The user is asking about the non-cash benefits offered by the company as described in the employment rules. I need to extract relevant details.",
+[action]: "Search",
+[action_input]: "[contract_info] for non-cash benefits",
+[observation]: "The employment rules states that non-cash benefits are provided to employees to supplement rewards and meet their non-financial needs. Examples include hospitalization insurance for employees and their dependents, group term insurance, personal accident insurance, company cars for employees above a certain grade, and club memberships for employees above a specific grade.",
+[thought]: "The user is inquiring about the non-monetary benefits offered to employees as outlined in the employment rules. I need to summarize the relevant details.",
+[action]: "Search",
+[action_input]: "[contract_info] for details on non-cash benefits",
+[observation]: "The employment rules explains that non-cash benefits are designed to supplement employee rewards and address non-financial needs. Examples include hospitalization insurance for employees and their dependents, group term insurance, personal accident insurance, company cars for employees above a specific grade, and club memberships for employees above a certain grade.",
+[thought]: "The user is asking about the non-monetary benefits provided by the company as described in the employment rules. I need to extract and summarize the relevant information.",
+[action]: "Search",
+[action_input]: "[contract_info] for information on non-cash benefits",
+[observation]: "The employment rules highlights that non-cash benefits are offered to employees to complement their rewards and fulfill non-financial needs. These benefits include hospitalization insurance for employees and their dependents, group term insurance, personal accident insurance, company cars for employees above a specific grade, and club memberships for employees above a certain grade.",
+[final_answer]: "The company provides non-cash benefits such as hospitalization insurance for employees and their dependents, group term insurance, personal accident insurance, company cars for employees above a certain grade, and club memberships for employees above a specific grade."
+
+[user]: "Please provide information available in the document regarding a Sale Deed.",  
+[thought]: "Extract brief details about Sale Deed from the document.",  
+[action]: "Search",  
+[action_input]: "[user_uploaded_contract]retrieve key points on Sale Deed from the document.", 
+[observation]: "A Sale Deed is a registered legal document that transfers ownership of immovable property from seller to buyer, ensuring clear title and valid consideration.",
+[final_answer]: "A Sale Deed is a registered legal document transferring ownership of immovable property from seller to buyer, confirming clear title and lawful consideration, governed by The Registration Act, 1908."

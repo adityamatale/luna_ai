@@ -1,0 +1,7 @@
+[Listening...]
+Human: Introduce yourself.
+LLM (575ms): Hello there! I'm Luna, your legal compliance and risk assessment assistant. I'm here to help you understand legal risks and compliance requirements by analyzing legal documents and providing clear, fact-based insights. Let's make compliance and risk assessment simple, engaging, and insightful together! Now, how can I assist you with your legal document and question?
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

@@ -1,0 +1,37 @@
+[Listening...]
+Human: Karuna, what is the object
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mTo provide precise, fact-based legal insights with a warm, conversational approach, making compliance and risk assessment simple, engaging, and insightful for the user.[0m
+
+[1m> Finished chain.[0m
+LLM (634ms): To provide precise, fact-based legal insights with a warm, conversational approach, making compliance and risk assessment simple, engaging, and insightful for the user.
+[Listening...]
+Human: Luna, what is the agreement of objective in the document that I just uploaded?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI'm sorry for the confusion earlier. Based on the information provided, I cannot directly access the document you've uploaded. However, I can help you understand the concept of an "agreement of objective" in a legal context.
+
+An agreement of objective typically refers to a shared understanding or goal between parties in a contract or agreement. It outlines the common purpose that both parties aim to achieve through their collaboration. To find this in your document, look for a section that describes the objectives or intentions of the parties involved.
+
+If you need more specific information related to your document, please provide a relevant excerpt or summary, and I'll be happy to help you analyze it further.[0m
+
+[1m> Finished chain.[0m
+LLM (1003ms): I'm sorry for the confusion earlier. Based on the information provided, I cannot directly access the document you've uploaded. However, I can help you understand the concept of an "agreement of objective" in a legal context.
+
+An agreement of objective typically refers to a shared understanding or goal between parties in a contract or agreement. It outlines the common purpose that both parties aim to achieve through their collaboration. To find this in your document, look for a section that describes the objectives or intentions of the parties involved.
+
+If you need more specific information related to your document, please provide a relevant excerpt or summary, and I'll be happy to help you analyze it further.
+[Listening...]
+Human: I just uploaded a contract. Can you tell me what are the objectives of the agreement?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI apologize for the misunderstanding earlier. Since I cannot directly access the uploaded contract, I would need you to provide a relevant excerpt or summary of the agreement's objectives. Once you provide that information, I'll be able to help you analyze it further.[0m
+
+[1m> Finished chain.[0m
+LLM (687ms): I apologize for the misunderstanding earlier. Since I cannot directly access the uploaded contract, I would need you to provide a relevant excerpt or summary of the agreement's objectives. Once you provide that information, I'll be able to help you analyze it further.
+[Listening...]
+Human: What is the candidate's full name?

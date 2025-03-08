@@ -1,0 +1,2 @@
+
+Error: 'AgentExecutor' object has no attribute 'with_structured_output'

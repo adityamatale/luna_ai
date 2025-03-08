@@ -1,0 +1,148 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Can you make a tool call to the document that I just uploaded and tell me what is article one about?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `user_uploaded_contract` with `{'query': 'article one'}`
+
+
+[0m[33;1m[1;3mPage 1 of 3 
+ 
+SAMPLE CONTRACT  
+This contract (The Agreement) is effective (Date) 
+between 
+NGO/UN agency hereinafter referred to as the “first party“ 
+and 
+Company/agent hereinafter referred to as “second party“ 
+ 
+WHEREAS the first party desires to transfer money from Turkey into Syria within the frame of its 
+humanitarian activities in the north of Idleb Governorate, Syria, and the second party has the 
+proven capacity, experience and highest reasonable standard of financial due diligence to 
+facilitate the transfers.  
+ 
+The Parties agree to nominate one primary contact person to manage this account on daily 
+basis and to collaborate as follows:  
+ 
+ARTICLE 1. Objective of the Agreement 
+1.1. The first party intends to transfer money to people residing in areas outside of the control 
+of the Government of Syria; 
+1.2. The second party has the proven capacity, experience and highest reasonable standard 
+of diligence to facilitate the transfers.
+
+ARTICLE 5. Modification and Cancellation 
+5.1 The Parties may only amend this agreement through mutual written consent; 
+5.2 In case the second party cannot provide the required amount, he should submit 
+something in writing to care stating his reason, based on which the first party can ask 
+another money dealer to provide the needed amount onwards; 
+5.2  Should either of the parties intend to terminate this agreement prematurely, notice of two 
+weeks must be submitted to the other party in writing, in order to end the agreement on 
+good terms. 
+ 
+ARTICLE 6. Dispute Resolution 
+6.1 Both parties shall use their best efforts to resolve any dispute in a friendly manner, 
+through consultation and clear communication; 
+6.2 Any dispute which cannot be resolved in such a way will be taken to a mutually agreed 
+mediator on a cost-sharing basis. 
+ 
+For [NGO/UN agency] 
+ 
+Name:  
+Position: 
+ 
+Date: 
+For [company/agent] 
+ 
+Name:  
+Position: 
+ 
+Date:
+
+ARTICLE 2. Obligations of the first party 
+2.1 Apply the highest reasonable standard of diligence* to ensure that the money transferred 
+under this agreeement is not transferred to any individual or entity listed as a Designated 
+Terrorist; 
+2.2 Coordinate what public statements / agree comms strategy will be made regarding the 
+transfers that involve beneficiaries; 
+2.3 Inform the second party of the amount of money to be transfered to Syria at least 7 days 
+before the due date of payment so that they can arrange the necessary liquidity;  
+2.4 Inform the second party of the specific locations where the money is required, within a 
+6km radius of the most distantly located recipents, so that they can position agents within 
+safe reach of the intended recipient; 
+2.5 Provide the second party with the full list of recipients 1 day before the due date of 
+disbursement;  
+2.6 In a hawala transaction where no physical cash provided to the second party is taken[0m[32;1m[1;3m
+Invoking: `user_uploaded_contract` with `{'query': 'article one'}`
+
+
+[0m[33;1m[1;3mPage 1 of 3 
+ 
+SAMPLE CONTRACT  
+This contract (The Agreement) is effective (Date) 
+between 
+NGO/UN agency hereinafter referred to as the “first party“ 
+and 
+Company/agent hereinafter referred to as “second party“ 
+ 
+WHEREAS the first party desires to transfer money from Turkey into Syria within the frame of its 
+humanitarian activities in the north of Idleb Governorate, Syria, and the second party has the 
+proven capacity, experience and highest reasonable standard of financial due diligence to 
+facilitate the transfers.  
+ 
+The Parties agree to nominate one primary contact person to manage this account on daily 
+basis and to collaborate as follows:  
+ 
+ARTICLE 1. Objective of the Agreement 
+1.1. The first party intends to transfer money to people residing in areas outside of the control 
+of the Government of Syria; 
+1.2. The second party has the proven capacity, experience and highest reasonable standard 
+of diligence to facilitate the transfers.
+
+ARTICLE 5. Modification and Cancellation 
+5.1 The Parties may only amend this agreement through mutual written consent; 
+5.2 In case the second party cannot provide the required amount, he should submit 
+something in writing to care stating his reason, based on which the first party can ask 
+another money dealer to provide the needed amount onwards; 
+5.2  Should either of the parties intend to terminate this agreement prematurely, notice of two 
+weeks must be submitted to the other party in writing, in order to end the agreement on 
+good terms. 
+ 
+ARTICLE 6. Dispute Resolution 
+6.1 Both parties shall use their best efforts to resolve any dispute in a friendly manner, 
+through consultation and clear communication; 
+6.2 Any dispute which cannot be resolved in such a way will be taken to a mutually agreed 
+mediator on a cost-sharing basis. 
+ 
+For [NGO/UN agency] 
+ 
+Name:  
+Position: 
+ 
+Date: 
+For [company/agent] 
+ 
+Name:  
+Position: 
+ 
+Date:
+
+ARTICLE 2. Obligations of the first party 
+2.1 Apply the highest reasonable standard of diligence* to ensure that the money transferred 
+under this agreeement is not transferred to any individual or entity listed as a Designated 
+Terrorist; 
+2.2 Coordinate what public statements / agree comms strategy will be made regarding the 
+transfers that involve beneficiaries; 
+2.3 Inform the second party of the amount of money to be transfered to Syria at least 7 days 
+before the due date of payment so that they can arrange the necessary liquidity;  
+2.4 Inform the second party of the specific locations where the money is required, within a 
+6km radius of the most distantly located recipents, so that they can position agents within 
+safe reach of the intended recipient; 
+2.5 Provide the second party with the full list of recipients 1 day before the due date of 
+disbursement;  
+2.6 In a hawala transaction where no physical cash provided to the second party is taken[0mAgent execution failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `mixtral-8x7b-32768` in organization `org_01jbp0sd1ke8tbzb7cv0fp14hv` service tier `on_demand` on tokens per minute (TPM): Limit 5000, Used 5875, Requested 4257. Please try again in 1m1.595s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Falling back to conversation.
+
+Error: local variable 'response' referenced before assignment

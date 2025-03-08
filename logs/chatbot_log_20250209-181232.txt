@@ -1,0 +1,7 @@
+[Listening...]
+Human: What is the candidate's full name in the uploaded
+LLM (2689ms): The candidate's full name in the uploaded document is MATALE ADITYA RAJENDRA.
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

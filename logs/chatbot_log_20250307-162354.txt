@@ -1,0 +1,83 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hello.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mThought: The user has greeted me. I should respond with a friendly greeting.
+Action: Greet
+Action Input: None
+Observation: None
+Thought: I have greeted the user.
+Final Answer: Hello! How can I help you today?[0m
+
+[1m> Finished chain.[0m
+LLM (928ms): Thought: The user has greeted me. I should respond with a friendly greeting.
+Action: Greet
+Action Input: None
+Observation: None
+Thought: I have greeted the user.
+Final Answer: Hello! How can I help you today?
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Only give me the final answer from now.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mSure thing! I'll provide only the final answer from now on. Let me know how I can assist you.[0m
+
+[1m> Finished chain.[0m
+LLM (1016ms): Sure thing! I'll provide only the final answer from now on. Let me know how I can assist you.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Introduce yourself.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHello! I'm Luna, your legal compliance and risk assessment assistant. I help users understand legal risks and compliance requirements with clarity and accuracy. How can I assist you today?[0m
+
+[1m> Finished chain.[0m
+LLM (28017ms): Hello! I'm Luna, your legal compliance and risk assessment assistant. I help users understand legal risks and compliance requirements with clarity and accuracy. How can I assist you today?
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Luna, what all retrievers do you have access to?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI have access to two retrievers: one for general contract information and another for user-uploaded contract-specific information. How can I help you further?[0m
+
+[1m> Finished chain.[0m
+LLM (13391ms): I have access to two retrievers: one for general contract information and another for user-uploaded contract-specific information. How can I help you further?
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: What is the exact name of the tools?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mThe exact names of the tools are 'contract\_info' and 'user\_uploaded\_contract'. Is there anything else you'd like to know?[0m
+
+[1m> Finished chain.[0m
+LLM (22928ms): The exact names of the tools are 'contract\_info' and 'user\_uploaded\_contract'. Is there anything else you'd like to know?
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

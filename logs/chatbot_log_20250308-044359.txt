@@ -1,0 +1,111 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hi. What can you tell me about the employee compensations?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `contract_info` with `{'query': 'employee compensations'}`
+
+
+[0m[36;1m[1;3mCompensation and Benefits (14MBAHR303)
+3
+Department of Management Studies, GCEM∑Indirect financial compensation including all financial rewards that are not included in direct 
+compensation and understood to form part of the social contract between the employer and 
+employee such as benefits, leaves, retirement plans, education, and employee services 
+∑Non-financial compensation referring to topics such as career development and advancement 
+opportunities, opportunities for recognition, as well as work environment and conditions 
+∑While employees tend to focus on direct financial compensation when contemplating their rewards, 
+according to the McKinsey Journal, for individuals who are relatively satisfied with their salary, it is 
+the non-financial rewards that tend to be more effective in contributing to long-term employee 
+engagement. 
+Pay Model 
+Pay model or the compensation model varies from industry to organizations. Each and every industry has
+
+Internati onal Journal of Economics, Business and Management Research  
+Vol. 3, No. 0 4; 2019 
+ISSN: 2456 -7760  
+www.ijebmr.com  Page 112  
+ COMP ENSATION, BENEFIT AND RETENTION  
+COMPENSATION  
+Compensation is defined as the cumulative financial and non -financial rewards payable to 
+employees in return for their services (Mondy and Noe, 2005). Financial rewards are related to 
+wages, bonus, profit sharing, pension plans, paid leaves a nd purchase discount which the 
+employees received as the exchange for their contribution to the organization. However, non -
+financial rewards are relational return which emphasizes making life on the job more attractive 
+consists of recognition and status, e mployment security, challenging work and learning 
+opportunities. The financial and non -financial rewards are usually based on the value of job, 
+level of personal contributions, efforts and performance (Milkovich and Newman, 2005).
+
+Compensation and Benefits (14MBAHR303)
+56
+Department of Management Studies, GCEM– Organizational 
+– Employee 
+Variation in International Pay Practices: 
+∑Social contracts[0m[32;1m[1;3mCompensation includes financial rewards like wages, bonuses, and non-financial rewards like recognition, employment security, and challenging work. It varies based on job value, personal contributions, and performance. Non-financial rewards can significantly contribute to long-term employee engagement.[0m
+
+[1m> Finished chain.[0m
+LLM (17809ms): Compensation includes financial rewards like wages, bonuses, and non-financial rewards like recognition, employment security, and challenging work. It varies based on job value, personal contributions, and performance. Non-financial rewards can significantly contribute to long-term employee engagement.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: What can you tell me about the land policies in India?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mLand policies in India involve regulations for land acquisition, transfer, and use. They aim to balance public interest and private rights, addressing issues like fair compensation, rehabilitation, and resettlement. Key policies include the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, and the National Land Monetization Policy.[0m
+
+[1m> Finished chain.[0m
+LLM (7619ms): Land policies in India involve regulations for land acquisition, transfer, and use. They aim to balance public interest and private rights, addressing issues like fair compensation, rehabilitation, and resettlement. Key policies include the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, and the National Land Monetization Policy.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Please provide information available in the document regarding a sale deed.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mA sale deed is a legal document that records the transfer of property ownership from the seller to the buyer. It includes details about the property, such as location, size, and features. It also specifies the sale price, payment terms, and any conditions or warranties. Both parties sign the deed, and it's typically registered with the relevant government authority.[0m
+
+[1m> Finished chain.[0m
+LLM (7233ms): A sale deed is a legal document that records the transfer of property ownership from the seller to the buyer. It includes details about the property, such as location, size, and features. It also specifies the sale price, payment terms, and any conditions or warranties. Both parties sign the deed, and it's typically registered with the relevant government authority.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Okay. Tell me something about legal aspects related to land assessment.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mLand assessment involves evaluating legal aspects such as ownership, encumbrances, zoning, and land use regulations. It ensures compliance with local laws and regulations, and helps identify potential issues like disputes, violations, or restrictions. A thorough assessment includes reviewing title documents, property surveys, and relevant statutes. It's crucial for informed decision-making in land transactions.[0m
+
+[1m> Finished chain.[0m
+LLM (7031ms): Land assessment involves evaluating legal aspects such as ownership, encumbrances, zoning, and land use regulations. It ensures compliance with local laws and regulations, and helps identify potential issues like disputes, violations, or restrictions. A thorough assessment includes reviewing title documents, property surveys, and relevant statutes. It's crucial for informed decision-making in land transactions.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Okay. What can you temp tell me about the compensation related to employees?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mEmployee compensation typically includes salary, bonuses, and benefits. Salaries are fixed payments, while bonuses are variable rewards based on performance or other factors. Benefits may include health insurance, retirement plans, and paid time off. Laws and regulations govern certain aspects of compensation, such as minimum wage, overtime, and equal pay. Companies also use compensation to attract and retain talent.[0m
+
+[1m> Finished chain.[0m
+LLM (7472ms): Employee compensation typically includes salary, bonuses, and benefits. Salaries are fixed payments, while bonuses are variable rewards based on performance or other factors. Benefits may include health insurance, retirement plans, and paid time off. Laws and regulations govern certain aspects of compensation, such as minimum wage, overtime, and equal pay. Companies also use compensation to attract and retain talent.
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Okay. Goodbye.
+
+Conversation completed.

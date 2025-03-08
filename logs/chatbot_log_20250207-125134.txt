@@ -1,0 +1,34 @@
+Vector Datastore initialization complete.
+Listening...
+Starting Deepgram WebSocket...
+mic start
+Received a message from Deepgram!
+Received a message from Deepgram!
+Received a message from Deepgram!
+Received a message from Deepgram!
+Human: Hi. How are you?   Hi. How are you?
+mic stop
+Received a message from Deepgram!
+Received a message from Deepgram!
+agent_executor Query received: Hi. How are you?   Hi. How are you?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHello! I'm an AI and don't have feelings, but I'm here and ready to help you with legal compliance and risk assessment. Now, how can I assist you with your legal document and question? Let's make this engaging and insightful for you![0m
+
+[1m> Finished chain.[0m
+debug response = {'input': 'Hi. How are you?   Hi. How are you?', 'chat_history': [HumanMessage(content='Hi. How are you?   Hi. How are you?')], 'agent_scratchpad': '', 'output': "Hello! I'm an AI and don't have feelings, but I'm here and ready to help you with legal compliance and risk assessment. Now, how can I assist you with your legal document and question? Let's make this engaging and insightful for you!"}
+LLM (652ms): Hello! I'm an AI and don't have feelings, but I'm here and ready to help you with legal compliance and risk assessment. Now, how can I assist you with your legal document and question? Let's make this engaging and insightful for you!
+TTS Time to First Byte (TTFB): 924ms
+
+Listening...
+Starting Deepgram WebSocket...
+mic start
+Received a message from Deepgram!
+Human: Goodbye.
+mic stop
+Received a message from Deepgram!
+Received a message from Deepgram!
+conversation completed. You can start a new session.
+
+Conversation completed.

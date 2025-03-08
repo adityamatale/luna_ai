@@ -1,0 +1,16 @@
+[Listening...]
+Human: What is the candidate's first name in the document that I uploaded?
+LLM (3742ms): The candidate's first name is ADITYA.
+[Listening...]
+Human: And what is his total PCM score?
+LLM (691ms): I'm sorry for the confusion in my previous response. After analyzing the document and the user's question, I found that the PCM score is not provided in the document. Therefore, I'm unable to give you an exact score. However, I can help you understand the factors that contribute to the PCM score or any other related information if it's available in the document.
+[Listening...]
+[Listening...]
+Human: What is the candidate's category?
+LLM (545ms): After analyzing the document, I found that the candidate's category is not explicitly mentioned. However, the document does provide information about the candidate's performance in various areas. If you'd like, I can help you understand those details or find any other relevant information in the document.
+Could not open socket: 
+LLM (683ms): I'm here to help you understand legal documents and provide insights related to compliance and risk assessment. I noticed that you didn't provide a legal document or a specific question related to it. Please feel free to share the document and your question, and I'll be happy to analyze the information and provide a concise, fact-based response while maintaining a friendly and approachable tone.
+
+For example, you can ask me questions like: "What is the candidate's first name in the document that I uploaded?" or "What are the key compliance guidelines mentioned in the provided document?"
+
+Looking forward to assisting you with your legal document analysis!

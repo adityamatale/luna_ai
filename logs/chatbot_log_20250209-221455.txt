@@ -1,0 +1,95 @@
+[Listening...]
+Human: Hi, Luna. I just uploaded a contract. Can you tell me what are the objectives of the agreement?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `user_uploaded_contract` with `{'query': 'objectives of the agreement'}`
+
+
+[0m[33;1m[1;3mPage 1 of 3 
+ 
+SAMPLE CONTRACT  
+This contract (The Agreement) is effective (Date) 
+between 
+NGO/UN agency hereinafter referred to as the “first party“ 
+and 
+Company/agent hereinafter referred to as “second party“ 
+ 
+WHEREAS the first party desires to transfer money from Turkey into Syria within the frame of its 
+humanitarian activities in the north of Idleb Governorate, Syria, and the second party has the 
+proven capacity, experience and highest reasonable standard of financial due diligence to 
+facilitate the transfers.  
+ 
+The Parties agree to nominate one primary contact person to manage this account on daily 
+basis and to collaborate as follows:  
+ 
+ARTICLE 1. Objective of the Agreement 
+1.1. The first party intends to transfer money to people residing in areas outside of the control 
+of the Government of Syria; 
+1.2. The second party has the proven capacity, experience and highest reasonable standard 
+of diligence to facilitate the transfers.
+
+ARTICLE 5. Modification and Cancellation 
+5.1 The Parties may only amend this agreement through mutual written consent; 
+5.2 In case the second party cannot provide the required amount, he should submit 
+something in writing to care stating his reason, based on which the first party can ask 
+another money dealer to provide the needed amount onwards; 
+5.2  Should either of the parties intend to terminate this agreement prematurely, notice of two 
+weeks must be submitted to the other party in writing, in order to end the agreement on 
+good terms. 
+ 
+ARTICLE 6. Dispute Resolution 
+6.1 Both parties shall use their best efforts to resolve any dispute in a friendly manner, 
+through consultation and clear communication; 
+6.2 Any dispute which cannot be resolved in such a way will be taken to a mutually agreed 
+mediator on a cost-sharing basis. 
+ 
+For [NGO/UN agency] 
+ 
+Name:  
+Position: 
+ 
+Date: 
+For [company/agent] 
+ 
+Name:  
+Position: 
+ 
+Date:
+
+cross-border, reimburse the same amount plus the agreed commission charge by bank 
+transfer within no more than 3 days after the distribution; 
+2.7 In a transaction where physical cash provided to the second party is taken cross-border:  
+ ensure bank notes are legal tender and undamaged.  Invalid or damaged notes of all 
+types of currencies will be changed with newer ones; and  
+ pre-agree the maximum liability allowable that can be covered by bank guarantee or 
+private bond; 
+2.8 Payment will be in USD or Euro, based on a pre-agreed exchange rate (see 3.3). 
+ 
+ARTICLE 3. Obligations of the second party 
+3.1 Apply the highest reasonable standard of diligence to ensure that the money transferred 
+under this agreeement is not transferred to any individual or entity listed as a Designated 
+Terrorist; 
+3.2 Provide first party’s representatives with Syrian Pounds (SYP), Turkish Liras (TL) or US 
+Dollars (USD), as appropriate, within an agreed schedule per distribution area;[0m[32;1m[1;3mSure thing! The objectives of the agreement are:
+1.1. The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria.
+1.2. The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers.[0m
+
+[1m> Finished chain.[0m
+LLM (3521ms): Sure thing! The objectives of the agreement are:
+1.1. The first party intends to transfer money to people residing in areas outside of the control of the Government of Syria.
+1.2. The second party has the proven capacity, experience and highest reasonable standard of diligence to facilitate the transfers.
+[Listening...]
+Human: Okay. That was great. Thank you so much.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mYou're welcome! I'm glad I could help. If you have any other questions, just let me know. Have a great day![0m
+
+[1m> Finished chain.[0m
+LLM (470ms): You're welcome! I'm glad I could help. If you have any other questions, just let me know. Have a great day!
+[Listening...]
+Human: Okay. Goodbye.
+
+Conversation completed.

@@ -1,0 +1,22 @@
+[Listening...]
+Human: Hi, Luna. Hi.
+LLM (517ms): Hello! How can I help you today? 😊
+[Listening...]
+Human: Keep your responses short
+LLM (525ms): Sure! I'll keep my responses concise. 😊 How can I help you with legal compliance and risk assessment?
+[Listening...]
+Human: Give me four points which are required to make any contract with the company and an employee.
+LLM (573ms): 1. Offer: A clear and definite proposal by the company to the employee.
+2. Acceptance: The employee's agreement to the company's offer.
+3. Consideration: Something of value exchanged between the parties, such as wages or services.
+4. Mutual Consent: Both parties must enter the contract willingly and understand its terms.
+
+(Note: This is a simplified explanation and actual requirements may vary based on jurisdiction and specific circumstances.)
+[Listening...]
+Human: Can you tell me the number of tools you have access to?
+LLM (716ms): I have access to multiple tools, but I can only make a single tool_call per response. 😊
+[Listening...]
+Human: Give me an exact number on how how many you have
+LLM (518ms): I have access to four tools for legal compliance and risk assessment. 😊
+Could not open socket: 
+LLM (694ms): I'm here to help with legal compliance and risk assessment. Please provide a legal document or a specific question related to a document. 😊

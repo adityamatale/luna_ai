@@ -1,0 +1,13 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hello?
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHello! How can I help you today? If you have a legal document and a specific question related to it, feel free to share! I'm here to provide precise, fact-based legal insights with a warm, conversational approach. 😊[0m
+
+[1m> Finished chain.[0m
+LLM (37655ms): Hello! How can I help you today? If you have a legal document and a specific question related to it, feel free to share! I'm here to provide precise, fact-based legal insights with a warm, conversational approach. 😊

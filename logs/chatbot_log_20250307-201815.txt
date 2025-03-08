@@ -1,0 +1,60 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hello, Luna. Explain me variable pay in simple terms.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `contract_info` with `{'query': 'variable pay explanation'}`
+
+
+[0m[36;1m[1;3mVariable Pay
+The quantum of variable pay is based on company and individual
+performance. Variable pay is given in the form of performance bonus or
+incentives as applicable. 
+The design of the variable is linked to the individual employee’s
+performance rating which is arrived by assessing performance delivered
+against a set of predefined set of objectives.
+Incentive payouts are based on individual performance targets as maybe
+defined from time to time.
+Benefits
+The Company believes and understands that there are certain policies
+which are key in building goodwill for the organisation amongst the
+employees. Keeping this in mind, apart from cash components and
+perquisites, the organisation is committed to assist employees and their
+dependants to meet unforeseen and adverse life events both from the
+perspective of health and financial difficulty. The organisation offers
+assistance to tide over such life events through medical insurance and
+
+Compensation and Benefits (14MBAHR303)
+44
+Department of Management Studies, GCEMVariable pay is awarded in a variety of formats including profit sharing, bonuses, holiday bonus, 
+deferred compensation, cash, and goods and services such as a company-paid trip or a Thanksgiving 
+turkey. 
+ADVANTAGES AND DRAWBACKS OF VARIABLE PAY 
+Most criticisms of variable pay can be traced to concerns about the nature, implementation, and execution 
+of such programs rather than the theories upon which they are based. "Most [variable pay] programs 
+provide no incentive to anyone and never deliver the promised results," he charged. "Why not? Because in 
+9 cases out of 10, they are not true bonus programs at all. They are simply profit-sharing programs, and 
+there is a world of difference between the two." By profit-sharing, I mean the practice of taking a 
+percentage of a company's profits, putting it into a pool, and disbursing it to the company's employees,
+
+Merit Pay/Variable Pay 
+Merit Pay: 
+Definition: 
+∑Merit pay is an approach to compensation that rewards the higher performing employees with 
+additional pay or incentive pay. Merit pay has advantages and disadvantages for the employees and 
+the employer. But, all-in-all, merit pay is the best way to reward the employees that you most want 
+to keep. 
+∑Merit pay plans reward employees with raises rather than bonuses or other forms of financial 
+compensation. Instead of tying raises solely to time on the job or promotion to a higher position, 
+the company gives raises for superior performance. For example, a pizzeria can give merit pay 
+raises for managers who successfully control ingredient costs. A medical billing company can offer 
+merit pay raises for employees who collect a higher percentage of outstanding bills. When an 
+employee receives a merit pay incentive, her salary is permanently increased. 
+Advantages of Merit Pay[0mAgent execution failed: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01jbp0sd1ke8tbzb7cv0fp14hv` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7089, please reduce your message size and try again. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Falling back to conversation.
+
+Error: local variable 'response' referenced before assignment

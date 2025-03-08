@@ -1,0 +1,22 @@
+[Listening...]
+Human: Hi.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHi! What can I help you with today?[0m
+
+[1m> Finished chain.[0m
+LLM (628ms): Hi! What can I help you with today?
+[Listening...]
+Human: Good way.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI'm glad you think so! What specific aspect of a good way are you referring to?[0m
+
+[1m> Finished chain.[0m
+LLM (610ms): I'm glad you think so! What specific aspect of a good way are you referring to?
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

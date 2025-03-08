@@ -1,0 +1,54 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hey, Luna.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHello! How can I help you today? 😊[0m
+
+[1m> Finished chain.[0m
+LLM (7264ms): Hello! How can I help you today? 😊
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Tell me something about the document I just uploaded.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `user_uploaded_contract` with `{'query': "analyze the user's uploaded document"}`
+responded: Sure thing! I'll need to analyze the document first. May I have a moment? 😊
+
+
+
+[0m[33;1m[1;3m=> document upload to database successfull..
+3. configured connections with deepgrams model APIs- “nova-2” and “aura-luna”  for enabling us to 
+use the STT and TTS models through http requests.....
+=>checked the performance of existing speech models for best inference speeds and word error rate
+
+1. formulated a project pipline with tools required for successfull project implementaion.
+2. Configured Vector database called DATASTAX-AstraDB for Legal data and for user uploaded 
+data......the database is configured for live updates during conversations.....
+
+= > terminal logs for connection formation.....
+=> Deepgram logs for successfull connections ....[0m[32;1m[1;3mBased on the tool call with id "call\_jcf1", the document you uploaded was successfully added to the database. The necessary connections with Deepgram's STT and TTS models have been established, and the vector database, DATASTAX-AstraDB, has been configured for both legal data and user-uploaded data. The database is set up for live updates during conversations.
+
+In summary, the document has been uploaded and integrated into the system for further analysis and risk assessment. 😊[0m
+
+[1m> Finished chain.[0m
+LLM (17943ms): Based on the tool call with id "call\_jcf1", the document you uploaded was successfully added to the database. The necessary connections with Deepgram's STT and TTS models have been established, and the vector database, DATASTAX-AstraDB, has been configured for both legal data and user-uploaded data. The database is set up for live updates during conversations.
+
+In summary, the document has been uploaded and integrated into the system for further analysis and risk assessment. 😊
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

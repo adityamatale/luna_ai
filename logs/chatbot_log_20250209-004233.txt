@@ -1,0 +1,7 @@
+[Listening...]
+Human: Hello. How are you?
+LLM (1029ms): Hello! I'm an AI, so I don't have feelings, but I'm here and ready to help you with your legal compliance and risk assessment questions. How can I assist you today?
+[Listening...]
+Human: Goodbye.
+
+Conversation completed.

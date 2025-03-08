@@ -1,0 +1,13 @@
+[Listening...]
+Human: What is the total PCM score?
+LLM (529ms): I'm sorry for any confusion, but I don't see a PCM score mentioned in the document or the instructions you've provided. Could you please clarify or provide more context so I can give you a helpful response?
+[Listening...]
+Human: What is the document I uploaded about?
+LLM (540ms): I'm sorry for the misunderstanding. Based on the instructions you've provided, I don't have the ability to access or analyze any uploaded document. However, I'm here to help answer questions to the best of my ability. If you have a specific question related to legal compliance or risk assessment, feel free to ask!
+[Listening...]
+Human: What is the name of the candidate?
+LLM (993ms): Based on the information you've provided, I'm unable to determine the name of the candidate. Could you please provide more context or information so I can give you a helpful response?
+[Listening...]
+Human: What is the name of the candidate and the document that I uploaded?
+LLM (728ms): I'm sorry for any confusion. Based on the instructions you've provided, I don't have the ability to access or analyze any uploaded document or know the name of the candidate. My purpose is to assist in answering questions related to legal compliance and risk assessment. If you have a specific question in these areas, I'll do my best to help!
+[Listening...]

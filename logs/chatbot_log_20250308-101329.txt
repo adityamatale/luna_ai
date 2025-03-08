@@ -1,0 +1,5 @@
+[Listening...]
+Human: Hi, Luna. What are the terms for transfer of future property?
+Agent execution failed: object of type 'NoneType' has no len(). Falling back to conversation.
+
+Error: local variable 'response' referenced before assignment

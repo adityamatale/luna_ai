@@ -1,0 +1,31 @@
+Vector Datastore initialization complete.
+Listening...
+Starting Deepgram WebSocket...
+mic start
+Received a message from Deepgram!
+Human: Hello.
+mic stop
+Received a message from Deepgram!
+Received a message from Deepgram!
+agent_executor Query received: Hello.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mHello! How can I help you with legal compliance and risk assessment today? Please provide a legal document for analysis and a specific prompt or question related to it. I'm here to make understanding legal risks and compliance requirements simple, engaging, and insightful for you.[0m
+
+[1m> Finished chain.[0m
+debug response = {'input': 'Hello.', 'chat_history': [HumanMessage(content='Hello.')], 'agent_scratchpad': '', 'output': "Hello! How can I help you with legal compliance and risk assessment today? Please provide a legal document for analysis and a specific prompt or question related to it. I'm here to make understanding legal risks and compliance requirements simple, engaging, and insightful for you."}
+LLM (755ms): Hello! How can I help you with legal compliance and risk assessment today? Please provide a legal document for analysis and a specific prompt or question related to it. I'm here to make understanding legal risks and compliance requirements simple, engaging, and insightful for you.
+TTS Time to First Byte (TTFB): 1292ms
+
+Listening...
+Starting Deepgram WebSocket...
+mic start
+Received a message from Deepgram!
+Human: Goodbye.
+mic stop
+Received a message from Deepgram!
+Received a message from Deepgram!
+conversation completed. You can start a new session.
+
+Conversation completed.

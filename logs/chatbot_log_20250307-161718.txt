@@ -1,0 +1,28 @@
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
+Human: Hello.
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mThought: The user has greeted me. I should respond with a friendly greeting.
+Action: Greet
+Action Input: None
+Observation: None
+Thought: I have greeted the user.
+Final Answer: Hello! How can I help you today?[0m
+
+[1m> Finished chain.[0m
+LLM (1530ms): Thought: The user has greeted me. I should respond with a friendly greeting.
+Action: Greet
+Action Input: None
+Observation: None
+Thought: I have greeted the user.
+Final Answer: Hello! How can I help you today?
+Initializing Deepgram Client...
+Creating WebSocket connection...
+Listening...
+Setting up event listener...
+[Listening...]
