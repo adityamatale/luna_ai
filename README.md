@@ -1,12 +1,12 @@
 # luna_ai
 
-Create Venv
-```python3 -m venv venv
-source venv/bin/activate```
+### Create Venv
+```python3 -m venv venv```
+```source venv/bin/activate```
 
 
-install libs
+### install libs
 ```pip install -r requirements.txt```
 
-run
+### run
 ```streamlit run interface2.py```
